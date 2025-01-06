@@ -10,7 +10,7 @@ Datasets used in this work are available on HuggingFace (Wolf et al., 2020) at: 
 
 
 
-![image](https://github.com/idotan286/SimulateAlignments/blob/main/Figure_1.png)
+![image](https://github.com/idotan286/SimulateAlignments/blob/main/Figure1.jpg)
 
 
 
