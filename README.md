@@ -8,6 +8,10 @@ The multiple sequence alignment (MSA) problem is a fundamental pillar in bioinfo
 ## Datasets:
 Datasets used in this work are available on HuggingFace (Wolf et al., 2020) at: https://huggingface.co/dotan1111.
 
+
+
 ![image](https://github.com/idotan286/SimulateAlignments/blob/main/Figure_1.png)
+
+
 
 Example of aligning three sequences with BetaAlign, (a): (Ⅰ) Consider the unaligned sequences “AAG”, “ACGG” and “ACG”; (Ⅱ) The unaligned sequences are concatenat-ed to a single sentence with a special character “|” between each original sequence; (Ⅲ) The trained model processes the single input sentence and generates the single output sentence; (Ⅳ) The processed output is structured such that the first three nucleotides represent the first column, the next three nucleotides represent the second column, and so on; (Ⅴ) The output is converted into an MSA. (b) An illustration of the different input (Ⅰ) and output (Ⅱ) transformation schemes. (c) Example of handling invalid alignments. When aligning the same sequences, BetaAlign first transformer may mis-takenly mutated the character “A” to “G” (Ⅰ); A different transformer resulted in a different output, may generate a shorter sequence in which the last two characters are missing (Ⅱ); The third transformer provided a valid alignment as output and can be used as the output of BetalAlign (Ⅲ).
