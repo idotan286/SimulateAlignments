@@ -20,9 +20,9 @@ Example of aligning three sequences with BetaAlign, (a): (Ⅰ) Consider the unal
 ## APA
 
 ```
-Edo Dotan, Elya Wygoda, Noa Ecker, Michael Alburquerque, Oren Avram, Yonatan Belinkov, and Tal Pupko (2025). BetaAlign: a deep learning approach for multiple sequence alignment. **Bioinformatics**; **Accepted**.
+Edo Dotan, Elya Wygoda, Noa Ecker, Michael Alburquerque, Oren Avram, Yonatan Belinkov, and Tal Pupko (2025). BetaAlign: a deep learning approach for multiple sequence alignment. Bioinformatics; Accepted.
 
-Edo Dotan, Yonatan Belinkov, Oren Avram, Elya Wygoda, Noa Ecker, Michael Alburquerque, Omri Keren, Gil Loewenthal, and Tal Pupko (2023). Multiple sequence alignment as a sequence-to-sequence learning problem. **The Eleventh International Conference on Learning Representations (ICLR 2023)**.
+Edo Dotan, Yonatan Belinkov, Oren Avram, Elya Wygoda, Noa Ecker, Michael Alburquerque, Omri Keren, Gil Loewenthal, and Tal Pupko (2023). Multiple sequence alignment as a sequence-to-sequence learning problem. The Eleventh International Conference on Learning Representations (ICLR 2023).
 ```
 
 
