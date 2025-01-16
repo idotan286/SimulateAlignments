@@ -37,9 +37,13 @@ Edo Dotan, Yonatan Belinkov, Oren Avram, Elya Wygoda, Noa Ecker, Michael Alburqu
 }
 
 @article{Dotan_multiple_2023,
+  title = {Multiple sequence alignment as a sequence-to-sequence learning problem},
+  url = {https://openreview.net/forum?id=8efJYMBrNb},
+  abstract = {The sequence alignment problem is one of the most fundamental problems in bioinformatics and a plethora of methods were devised to tackle it. Here we introduce BetaAlign, a novel methodology for aligning sequences using a natural language processing (NLP) approach. BetaAlign accounts for the possible variability of the evolutionary process among different datasets by using an ensemble of transformers, each trained on millions of samples generated from a different evolutionary model. Our approach leads to outstanding alignment accuracy, often outperforming commonly used methods, such as MAFFT, DIALIGN, ClustalW, T-Coffee, and MUSCLE.},
+  language = {en},
+  urldate = {2023-02-23},
   author = {Dotan, Edo and Belinkov, Yonatan and Avram, Oren and Wygoda, Elya and Ecker, Noa and Alburquerque, Michael and Keren, Omri and Loewenthal, Gil and Pupko, Tal},
-  month = aug,
-  title = {{Multiple sequence alignment as a sequence-to-sequence learning problem}},
+  month = feb,
   year = {2023}
 }
 
